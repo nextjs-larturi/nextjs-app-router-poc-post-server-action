@@ -12,7 +12,6 @@
 3. Install the dependencies: ```npm install```
 4. Start the server: ```npm run dev```
 
-
 ## Application flow
 
 - The index page (server-side) calls a client-side form component

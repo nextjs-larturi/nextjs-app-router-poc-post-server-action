@@ -22,3 +22,5 @@
 - The server action makes the fetch to the public pokemons api
 
 - As can be seen in the network part of the browser's development tools, at the time of fetch, the pokeApi url is protected, with the user not knowing how the information is obtained
+
+![image](https://github.com/user-attachments/assets/7c0003a2-011d-4c97-a194-01a6b8bd3ccf)
